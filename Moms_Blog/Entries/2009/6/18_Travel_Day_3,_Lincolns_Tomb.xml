@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:20:00 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;&#x201C;Now he belongs to the ages.&#x201D; &#xD;&#xD;&lt;/b&gt;&lt;b&gt;With Bob in the lead, our little caravan cris-crossed through residential streets of Springfield to Oak Ridge Cemetery where Abraham Lincoln is buried.&#xD; &#xD;The grey stone and marble mausoleum sits on a little rise, and is quickly revealed as you make your way up the entrance road of the cemetery. It is very prominent, but still dignified.&#xD;&#xD;The interior of the mausoleum is finished in earth-colored marble of varying hues; tans, browns, earth reds. A simple  corridor leads to the rear of the mausoleum. Several small bronze statues of Lincoln, each marking a different point in the great man&#x2019;s life and career, are carefully placed at turns in the corridor. The interior environment is dignified and understated, perhaps that made the revelation of Lincoln&#x2019;s simple tomb even more moving.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Travel Day 3, Lincoln&#x2019;s Tomb</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 18, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Travel_Day_3,_Lincolns_Tomb_files/shapeimage_2.png" left="0px" top="0px" width="352px" height="264px"/>
+</content>

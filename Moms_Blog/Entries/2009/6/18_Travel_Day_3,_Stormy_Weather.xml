@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:19:59 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Severe thunder storms apparently passed through central Indiana this morning. From the window of our little hotel room, we watched the rain pelt down on the Comfort Inn parking lot, listened apprehensively to the weather report - and we believed it. Bob arranged for a late check out since weather reports indicated that the worst of the storm would pass directly through Crawfordsville around ten o&#x2019;clock.&#xD;&#xD;At more or less 10:30 the rain stopped. Although the wind was still blowing, the cloud cover began to lift. It looked like the storm had passed, so we got on our way around 11:15. Not long after our departure the sun came out. For the rest of the day driving conditions were excellent, dry roads, bright sunshine, high clouds and blue skies.&#xD;&#xD;We stopped in Springfield for lunch. Dogs and I sat on the grass under a small stand of trees in the high humidity and hot breeze. They were happy to be out of the car, as was I. Bob fetched another round of burgers for the five of us, then joined me and the dogs on the grass. (Did I mention the enormous black ants which took to exploring my sandals, legs, lunch? Not biting ants, luckily, just so large they made me think they were some strange and new variety of insect particular to Illinois.)&#xD;&#xD;Dan ate his lunch, ant free, in the safety of Bob&#x2019;s car.&#xD;&#xD;&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Travel Day 3, Severe Weather Alerts</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 18, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Travel_Day_3,_Stormy_Weather_files/shapeimage_2.png" left="0px" top="0px" width="268px" height="326px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="AD14F0BD-B0D3-425B-B7AF-1FA27601E8EE">
+  <lastEdited clientType="local-build-20090618" date="2009-06-18 22:49:30 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Today, we got of to a late start from Crawfordsville, Indiana. The weather outlook was very severe, at least according to the weather channel. We sat tight and waited until around 11am to check out and get on the road. I had discovered the National Weather Service web site (far more credible than weatherchannel.com). From the NWS site, it appeared that the worst was headed south in a hurry and we would be driving into clear skies. Thankfully, that&#x2019;s exactly what happened. The day was great...a bit hot by mid-day...but nice nonetheless.&#xD;&#xD;We drove to Springfield, IL to visit Lincoln&#x2019;s Tomb, a site recommended by by a friend. He was right. The site is both impressive and inspiring. Regrettably, our son had absolutely no interest in seeing it, so he waited in the car.&#xD;&#xD;Due to the weather and the late start, we had managed to book 3 hotels over the course of the day. We had originally planned to make it as far as Macon, OH, which would have made it a 300+ mile day (day 1 and 2 were each about 350 miles). We cancelled the Macon hotel and decided to be cautious and shoot for Decatur, IL. Once we hit the clear skies, we shot easily past Decatur and managed to book a place in Hannibal, Mo, the boyhood home of Mark Twain. We arrived at the hotel at around 5pm and it was quite hot outside; probably around 90 degrees. The room was an icebox and it felt great. It&#x2019;s also large and the building appears to be either new or freshly remodeled. The wifi is great too. &#xD;&#xD;Tomorrow, we&#x2019;ll spend some time in historic downtown Hannibal and check out the Mark Twain&#x2019;ings of it all. Then we plan to head to St. Joseph, MO. At that point, the next day, we&#x2019;ll turn north and head to Lincoln, NE.&#xD;&#xD;That&#x2019;s it for now...&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Illinois, land of Lincoln</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 18, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_i_dont_know_yet_files/shapeimage_3.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

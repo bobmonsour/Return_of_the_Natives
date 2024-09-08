@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:19:57 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We hope that today will be the last moving out day. The crew here today is focused and on a mission to finish the job. &#xD;&#xD;I can&#x2019;t say that it is difficult to see all our possessions pass through the open doors and into the huge truck parked in front of our house. I am happy with our decision to leave Princeton. Still there&#x2019;s something that tugs at the heart. Closing this phase of life, but the next phase not yet begun -- living in a holding pattern with no visible landing strip.&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Moving out Monday</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, June 15, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Moving_out_Monday_files/shapeimage_2.png" left="0px" top="0px" width="369px" height="277px"/>
+</content>

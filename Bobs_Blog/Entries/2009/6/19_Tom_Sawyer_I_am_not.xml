@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="AD14F0BD-B0D3-425B-B7AF-1FA27601E8EE">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 19:18:36 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday found us stopping in Hannibal, Missouri, boyhood home of Mark Twain. The Quality Inn was a fine stop. The room was large and cold (it had been a very hot day, so the blast of air-conditioned cold was a welcomed relief).&#xD;&#xD;Since Daniel is not a great traveler and prefers not to sight-see, our time in historic downtown Hannibal was brief. It&#x2019;s a quaint little town, filled with antique shops and it sita at the edge of the Mississippi River.&#xD;&#xD;The photo above is a dogs-eye view of a beautiful building on Main Street.&#xD;&#xD;Our next stop is set for Omaha, Nebraska, home of Warren Buffet (though, I doubt we&#x2019;ll spot him).&#xD;&#xD;So far, we&#x2019;re all holding up well. I&#x2019;m glad we decided to do about 300 miles a day. That&#x2019;s long enough with the 2 cars and the dog stops.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tom Sawyer I am not</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, June 19, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Tom_Sawyer_I_am_not_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

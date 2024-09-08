@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090622" date="2009-06-22 23:34:48 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Happy Father&#x2019;s Day to all you Dads!&#xD;&#xD;We started our journey around 9am this morning and made good time because of the sunny, clear weather. We put Grand Island behind us quickly. The landscape opened up to corn fields, pastures and big, big skies. Collections of farm buildings surrounded by stands of sheltering trees indicated the location of homestead after homestead. From time to time I could see abandoned buildings, old barns mostly. Dotting the landscape were ponds and small creeks. &#xD;&#xD;As we sped along I-80, I spotted a sign for &#x201C;Original Pony Express Station&#x201D;, called Bob and we pulled off the highway to have a look.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Day 6, Western Nebraska</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, June 21, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Day_6,_Western_Nebraska_files/shapeimage_2.png" left="0px" top="0px" width="372px" height="267px"/>
+</content>

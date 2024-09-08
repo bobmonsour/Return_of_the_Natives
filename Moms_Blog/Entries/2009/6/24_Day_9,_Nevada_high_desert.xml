@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090624" date="2009-06-24 17:57:05 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Too tired to blog this afternoon. At some point in the near future there will be entries:&#xD;&#xD;entering desert heat&#xD;thoughts on nearly arriving at our destination&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Day 9, Nevada high desert</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, June 24, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Day_9,_Nevada_high_desert_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

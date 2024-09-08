@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:19:57 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This morning is overcast and chilly. It rained last night, the ground is spongy, saturated with water. The weather suits our collective mood. Just as we&#x2019;re not certain if there will be another electrical storm or bright sunshine within the hour, our excitement about the move is clouded with anxiety over the big unknowns: the drive across the county, our new lives out west.&#xD;&#xD;A pause for wry amusement: Willie has learned to pose for photographs. With the camera held in shooting position, I call his name. Willie looks at me and freezes until he hears the click of the shutter. Most of the time he waits to hear &#x201C;good dog&#x201D; before he moves from his spot. Gotta love him.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Gloomy Sunday morning:</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, June 14, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Gloomy_Sunday_morning__files/shapeimage_2.png" left="0px" top="0px" width="364px" height="273px"/>
+</content>

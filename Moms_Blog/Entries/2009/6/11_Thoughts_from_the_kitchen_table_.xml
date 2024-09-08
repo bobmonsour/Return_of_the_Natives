@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:19:56 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;The move really started several weeks ago when the piano movers arrived. Two fellows took one long and careful hour examining the piano and preparing it to be transported across the country. It was an event which I had anticipated with mixed emotions: it was the beginning of our physical exit from Princeton, but it also signaled the commencement of a period of chaos which will last far longer than the time required to cross the continent.&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Thoughts from the kitchen table:&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 11, 2009&#xD;Packing Day Three, Loading Day One&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Thoughts_from_the_kitchen_table__files/shapeimage_2.png" left="0px" top="0px" width="363px" height="272px"/>
+</content>

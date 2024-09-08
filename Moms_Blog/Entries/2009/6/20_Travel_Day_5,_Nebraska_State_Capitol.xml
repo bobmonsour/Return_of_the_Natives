@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090621" date="2009-06-21 23:20:01 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We drove into Lincoln specifically to investigate the capitol building, but with no idea what we would find. We were both impressed and surprised. The building is absolutely gorgeous. &#xD;&#xD;According to the gentleman in the information office, it was built and decorated primarily by talented Nebraskans. The building was embellished with murals, marble intarsia, wrought iron work, cast iron work, bronze busts and more. Perhaps the location, in the middle of farm country, makes this showpiece even more remarkable.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Travel Day 5, Nebraska State Capitol, farmlands, Grand Island</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, June 20, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Travel_Day_5,_Nebraska_State_Capitol_files/shapeimage_2.png" left="0px" top="0px" width="388px" height="281px"/>
+</content>

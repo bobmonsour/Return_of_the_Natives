@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090624" date="2009-06-24 17:57:04 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Will blog another day about:&#xD;&#xD;Sherman Mountains, noise in the brush which sent me packing to the car&#xD;Cheyenne State capitol building, grandfatherly man, possible governor sighting&#xD;prairie dogs and 600 other species of wildlife have a home in Wyoming.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Day 7, Sherman Mnts, Cheyenne, prairie dogs</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, June 22, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Day_7,_Sherman_Mnts,_Cheyenne,_prairie_dogs_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090630" date="2009-06-30 00:17:08 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We left Tahoe around eight in the morning on Friday, June 26. In spite of accumulated fatigue, we couldn&#x2019;t get on the road early enough. We were so ready for the drive to be behind us but we were also very anxious to reach our destination.&#xD;&#xD;After descending into the valley from gorgeous Lake Tahoe, we entered the Sacramento metropolitan area, but did not even consider stopping to see the capitol building. It was hot and sunny, we were thirsty, but we didn&#x2019;t stop. We were on a mission.&#xD;&#xD;We did make a brief pit stop at UC Davis, at the recently opened Robert Mondavi Institute for Wine and Food Sciences complex to be exact. The facilities are beautifully designed, absolutely gorgeous. Of course, there&#x2019;s a small vineyard on the adjoining parcel of land. The place looks as though -- if you were a grad student in the food sciences -- you&#x2019;d give your eye teeth to study there.&#xD;&#xD;After Davis, we made a B-Line for Point B. We continued on the I-80, then turned north to catch the 101 through Vallejo and Novato. That way, we were able to approach San Rafael by way of the wetlands, which I find uncommonly beautiful. We also passed Frank lloyd Wright&#x2019;s Marin County Courthouse.&#xD;&#xD;Just about noon on Friday long road trip home finally ended. We were totally exhausted but super-excited, and happy to arrive safely. &#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Day 11, the last leg</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, June 26, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Day_11,_the_last_leg_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

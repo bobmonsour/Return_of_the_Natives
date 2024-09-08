@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="89966811-3039-4C63-AF74-C8C9217F92FA">
+  <lastEdited clientType="local-build-20090625" date="2009-06-25 20:36:25 -0400"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;We crossed the border into California at 12:44 this afternoon, not that I&#x2019;m counting. As we approached the border crossing between Nevada and California, I could make out the imposing gate-like structure, complete with uniformed guards, offices and vehicle inspection area. None of those insignificant signs &#x201C;Welcome to Pennsylvania&#x201D; or &#x201C;You are entering Nevada&#x201D; for the Golden Nation, ah, State.&#xD;&#xD;I stopped for the guard to question me as to whether or not I had any produce stashed somewhere in my car. No, sir, no produce. Strangely, he also asked if my dogs were the only animals I was bringing into California. Heck, fella. My dogs weigh in at 125 and 60 pounds respectively. So where do you think I could hide that iguana, monkey or boa constrictor -- in my station wagon? No, the dogs are the only animals. Bright smile. I have to say I nearly teared up as I sailed past the check point and back home at last!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Day 10, So long desert, hello alpine forests</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, June 25, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Day_10,_So_long_desert,_hello_alpine_forests_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

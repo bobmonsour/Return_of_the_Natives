@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Bob's Blog</title>
+    <link>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog</link>
+    <description>Right attcha: Random thoughts and ideas on various subjects.</description>
+    <item>
+      <title>The Watchful Citizen</title>
+      <link>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/20_Entry_1.html</link>
+      <guid isPermaLink="false">feef1627-c88c-4f6f-91b0-306ff5baaefb</guid>
+      <pubDate>Sat, 20 Jun 2009 08:44:17 -0400</pubDate>
+      <iweb:comment link="http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/20_Entry_1.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Tom Sawyer I am not</title>
+      <link>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/19_Tom_Sawyer_I_am_not.html</link>
+      <guid isPermaLink="false">d0feea32-a20f-41bc-a75a-f40e46d73adf</guid>
+      <pubDate>Fri, 19 Jun 2009 08:31:49 -0400</pubDate>
+      <iweb:comment link="http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/19_Tom_Sawyer_I_am_not.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Illinois, land of Lincoln</title>
+      <link>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/18_i_dont_know_yet.html</link>
+      <guid isPermaLink="false">30e6e133-6b2f-4b70-b5f3-238e87596a4a</guid>
+      <pubDate>Thu, 18 Jun 2009 22:22:49 -0400</pubDate>
+      <iweb:comment link="http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/18_i_dont_know_yet.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Better late then never</title>
+      <link>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/17.html</link>
+      <guid isPermaLink="false">6e3c62a4-fedb-4ab1-babd-dc046b6df7fb</guid>
+      <pubDate>Wed, 17 Jun 2009 21:33:25 -0400</pubDate>
+      <iweb:comment link="http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog/Entries/2009/6/17.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.allfeetondeck.com/Return_of_the_Natives/Bobs_Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
